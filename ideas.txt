@@ -1,0 +1,3 @@
+-> Simular a clusterização, para isso mudar os parametros e adicionar celulas lideres.
+-> Lideres mantem as celulas adjacentes vivas considerando um parametro "confiança".
+-> 2 clusteres vizinhos são consumidos pelo lider mais forte
